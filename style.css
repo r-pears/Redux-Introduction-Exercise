@@ -1,0 +1,14 @@
+.main {
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  border: 1px solid #000026;
+  color: #000026;
+}
+
+.button:hover {
+  background-color: #000026;
+  color: #fff;
+}
